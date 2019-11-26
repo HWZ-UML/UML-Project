@@ -1,7 +1,7 @@
-package enums;
+package enums; // test	
 
 public class Status {
 
-	private enum status {inPrüfung, bestätigt, abgelehnt, storniert};
+	private enum status {verfuegbar, ausgeliehen, inReinigung, inReparatur, ausgemustert};
 	
 }
