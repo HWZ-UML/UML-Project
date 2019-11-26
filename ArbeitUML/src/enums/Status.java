@@ -1,4 +1,4 @@
-package enums; // test	
+package enums; 	
 
 public class Status {
 
