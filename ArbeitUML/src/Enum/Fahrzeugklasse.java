@@ -2,5 +2,5 @@ package Enum;
 
 public class Fahrzeugklasse {
 
-	public enum status {Limousine, Combi, OffRoader};
+	private enum fahrzeugklasse {Limousine, Combi, OffRoader};
 }

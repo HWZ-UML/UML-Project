@@ -2,5 +2,5 @@ package Enum;
 
 public class Treibstoff {
 
-	public enum treibstoff {Benzin, Diesel, Elektrizität};
+	private enum treibstoff {Benzin, Diesel, Elektrizität};
 }

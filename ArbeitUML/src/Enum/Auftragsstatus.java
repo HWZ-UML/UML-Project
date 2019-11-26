@@ -1,8 +1,7 @@
 package Enum;
 
 public class Auftragsstatus {
-
-	public String bezeichnung;
 	
-	public enum auftragsstatus {inPrüfung, bestätigt, abgelehnt, storniert};
+	private enum auftragsstatus {inPrüfung, bestätigt, abgelehnt, storniert};
+	
 }

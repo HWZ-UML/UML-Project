@@ -2,5 +2,5 @@ package Enum;
 
 public class Kreditkartenart {
 
-	public enum kreditkartenart {Visa, Mastercard, AmericanExpress};
+	private enum kreditkartenart {Visa, Mastercard, AmericanExpress};
 }
