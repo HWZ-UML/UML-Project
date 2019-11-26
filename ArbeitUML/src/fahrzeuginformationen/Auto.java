@@ -11,7 +11,7 @@ public class Auto {
 	private int kilometerstand;
 	private Date zulassung;
 	private Model model;
-	private Status status;
+	private Status status = Status.verfuegbar;
 	private Farbe farbe;
 
 	public int getFahrzeugnummer() {
