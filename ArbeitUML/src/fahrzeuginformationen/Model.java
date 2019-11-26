@@ -1,5 +1,7 @@
 package fahrzeuginformationen;
 
+import Enum.Marke;
+
 public class Model {
 
 	public Auto fahrzeugnummer;
