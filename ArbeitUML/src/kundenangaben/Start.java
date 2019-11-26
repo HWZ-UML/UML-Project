@@ -11,4 +11,6 @@ public class Start {
 	public void setKundenmanagement(Kundenmanagement kundenmanagement) {
 		this.kundenmanagement = kundenmanagement;
 	}
+	
+	
 }
