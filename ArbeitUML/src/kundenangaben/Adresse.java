@@ -2,11 +2,59 @@ package kundenangaben;
 
 public class Adresse {
 
-	public Kunde kundennummer;
-	public String strasse;
-	public int hausnummer;
-	public int postleitzahl;
-	public String ort;
-	public int telefon;
-	public String mail;
+	private String strasse;
+	private int hausnummer;
+	private int postleitzahl;
+	private String ort;
+	private String email;
+	private int telefon;
+
+public String getStrasse() {
+	return strasse;
+}
+
+public int getHausnummer() {
+	return hausnummer;
+}
+
+public int getPostleitzahl() {
+	return postleitzahl;
+}
+
+public String getOrt() {
+	return ort;
+}
+
+public String getEmail() {
+	return email;
+}
+
+public int getTelefon() {
+	return telefon;
+}
+
+public void setStrasse(String strasse) {
+	this.strasse = strasse;
+}
+
+public void setHausnummer(int hausnummer) {
+	this.hausnummer = hausnummer;
+}
+
+public void setPostleitzahl(int postleitzahl) {
+	this.postleitzahl = postleitzahl;
+}
+
+public void setOrt(String ort) {
+	this.ort = ort;
+}
+
+public void setEmail(String email) {
+	this.email = email;
+}
+
+public void setTelefon(int telefon) {
+	this.telefon = telefon;
+}
+
 }

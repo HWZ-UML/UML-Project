@@ -10,7 +10,9 @@ public class Kundenmanagement {
 	//	Kunde neuerKunde = km.anlegenKunde("Bär");
 
 		//if (neuerKunde.login("Bär", "1234".toCharArray())) {
-		if (Kunde.login = true) {
+		Kunde kunde = new Kunde();
+		
+		if (kunde.isLogin = true) {
 			
 			Auto auto = new Auto();
 			List<Auto> gefundeneAutos = a.suche(new Model());

@@ -1,4 +1,4 @@
-package kundenangaben;
+package Enum;
 
 public class Kreditkartenart {
 

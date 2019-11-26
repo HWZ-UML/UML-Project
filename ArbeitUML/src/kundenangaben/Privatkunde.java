@@ -1,9 +1,27 @@
 package kundenangaben;
 import java.util.Date;
 
-public class Privatkunde {
+public class Privatkunde extends Kunde{
 
-	public String name;
-	public String vorname;
-	public Date geburtsdatum;
+	private String vorname;
+	private Date geburtsdatum;
+	
+	public String getVorname() {
+		return vorname;
+	}
+	
+	public Date getGeburtsdatum() {
+		return geburtsdatum;
+	}
+	
+	public void setVorname(String vorname) {
+		this.vorname = vorname;
+	}
+	
+	public void setGeburtsdatum(Date geburtsdatum) {
+		this.geburtsdatum = geburtsdatum;
+	}
+	
+	
 }
+
