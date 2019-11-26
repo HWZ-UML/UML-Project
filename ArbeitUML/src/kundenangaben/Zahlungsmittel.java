@@ -2,7 +2,7 @@ package kundenangaben;
 
 import java.util.Date;
 
-import Enum.Kreditkartenart;
+import enums.Kreditkartenart;
 
 public class Zahlungsmittel {
 

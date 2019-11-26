@@ -1,8 +1,8 @@
-package Auftrag;
+package auftrag;
 import java.sql.Time;
 import java.util.Date;
 
-import Enum.Auftragsstatus;
+import enums.Auftragsstatus;
 import fahrzeuginformationen.Auto;
 import kundenangaben.Kunde;
 

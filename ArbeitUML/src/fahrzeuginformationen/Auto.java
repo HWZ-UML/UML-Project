@@ -1,7 +1,8 @@
 package fahrzeuginformationen;
 import java.util.Date;
-import Enum.Farbe;
-import Enum.Status;
+
+import enums.Farbe;
+import enums.Status;
 
 public class Auto {
 

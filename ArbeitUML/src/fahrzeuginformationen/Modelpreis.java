@@ -1,6 +1,6 @@
 package fahrzeuginformationen;
 
-import Enum.Modellfaktor;
+import enums.Modellfaktor;
 
 public class Modelpreis {
 

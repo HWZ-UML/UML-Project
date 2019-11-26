@@ -1,8 +1,8 @@
 package fahrzeuginformationen;
 
-import Enum.Fahrzeugklasse;
-import Enum.Marke;
-import Enum.Treibstoff;
+import enums.Fahrzeugklasse;
+import enums.Marke;
+import enums.Treibstoff;
 
 public class Model {
 
