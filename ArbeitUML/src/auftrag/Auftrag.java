@@ -5,7 +5,7 @@ import java.util.Date;
 import enums.Auftragsstatus;
 import fahrzeuginformationen.Auto;
 import kundenangaben.Kunde;
-//hjjoi
+//hjjoijnkjn
 public class Auftrag {
 
 	private int auftragsnummer;
